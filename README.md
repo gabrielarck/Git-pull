@@ -1,2 +1,2 @@
 # Git-pull
-REMOTE
+Local
