@@ -1,2 +1,2 @@
 # Git-pull
-pour les nul
+REMOTE
